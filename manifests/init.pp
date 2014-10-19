@@ -1,4 +1,4 @@
-# Class: motd
+## Class: motd
 #
 # This module manages 'Message Of The Day'
 #
