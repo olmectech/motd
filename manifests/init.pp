@@ -51,7 +51,7 @@ class motd(
     mode    => '0644',
     content => $inline_template ? {
          '' => template($template),
-      default => inline_template("${inline_template}\n"),
+    default => inline_template("${inline_template}\n"),
     }
   }
 }
