@@ -1,4 +1,4 @@
-echo ## >> README.md
+echo ### >> README.md
 git add .
 git commit -m a
 git push 
