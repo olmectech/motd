@@ -1,4 +1,4 @@
-##### puppet-motd
+###### puppet-motd
 
 Manage 'Message Of The Day' via Puppet
 
